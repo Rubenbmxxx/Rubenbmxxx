@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Ruben Ferrer, a Data Engineer from Spain!
+I have been working since 2016 in the IT Industry, since 2018 as Data Engineer.
+
 <!--
 **Rubenbmxxx/Rubenbmxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
