@@ -1,6 +1,4 @@
-### Hi there 👋
-
-This is Ruben, a Data Engineer from Spain!
+### Hey :parrot:
 
 <!--
 **Rubenbmxxx/Rubenbmxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
